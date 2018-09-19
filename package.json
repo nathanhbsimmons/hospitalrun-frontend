@@ -49,7 +49,6 @@
     "ember-cli": "2.17.1",
     "ember-cli-active-link-wrapper": "0.3.2",
     "ember-cli-app-version": "^3.0.0",
-    "ember-cli-babel": "^6.17.0",
     "ember-cli-barcode": "donaldwasserman/ember-cli-barcode#master",
     "ember-cli-content-security-policy": "0.6.0",
     "ember-cli-dependency-checker": "^3.0.0",
@@ -122,6 +121,7 @@
     "electron-protocol-serve": "^1.3.0",
     "electron-squirrel-startup": "^1.0.0",
     "ember-bootstrap": "^2.1.1",
+    "latest": "^0.2.0",
     "sw-offline-google-analytics": "0.0.25"
   },
   "ember-addon": {
